@@ -1,0 +1,7 @@
+{
+  "name": "Wave CI Opener Tracker",
+  "description": "Mobile PWA for Merchant Openers to track performance, material stock, and generate WhatsApp reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
